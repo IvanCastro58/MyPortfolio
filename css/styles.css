@@ -829,10 +829,5 @@ footer .logo h1{
     .project-section .card img{
         height: auto; 
     }
-
-    .menubar {
-        left: -100%;
-        width: 200px;
-    }
 }
 
