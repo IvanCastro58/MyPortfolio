@@ -148,7 +148,7 @@ body{
 .menubar {
     position: absolute;
     top: 0;
-    left: -60%;
+    left: -80%;
     display: flex;
     justify-content: center;
     align-items: flex-start;
@@ -828,6 +828,22 @@ footer .logo h1{
 
     .project-section .card img{
         height: auto; 
+    }
+
+    .menubar {
+        width: 200px;
+    }
+
+    .social-icons{
+        gap: 20px;
+    }
+
+    .footer-icons{
+        gap: 15px;
+    }
+
+    .footer-icons i {
+        font-size: 14px;
     }
 }
 
