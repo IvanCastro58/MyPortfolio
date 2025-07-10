@@ -827,6 +827,10 @@ footer .logo h1{
         width: 200px;
     }
 
+    .home-image{
+        width: 250px;
+    }
+
     .contact-section .card {
         width: 100%;
     }
