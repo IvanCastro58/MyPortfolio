@@ -567,6 +567,10 @@ body{
     margin-bottom: 30px;
 }
 
+.contact-section .card {
+    width: 75%;
+}
+
 .contact-section .card i{
     padding: 10px 15px;
     color: var(--yellow);
@@ -822,6 +826,10 @@ footer .logo h1{
         width: 200px;
     }
 
+    .contact-section .card {
+        width: 100%;
+    }
+
     .project-section .card {
         height: auto; 
     }
@@ -844,6 +852,10 @@ footer .logo h1{
 
     .footer-icons i {
         font-size: 14px;
+    }
+
+    .back-to-top {
+        right: 30px;
     }
 }
 
