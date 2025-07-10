@@ -89,10 +89,6 @@ AOS.init({
     once: true,
     mirror: false,
     easing: 'ease-in-out',     
-
-    disable: function() {
-        return window.innerWidth < 991;
-    }
 });
 
 function techStackOnClick() {
